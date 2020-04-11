@@ -6,15 +6,16 @@ MVPs são pessoas referências que a Microsoft reconhece por serem experts nas t
 
 E esses experts organizam e entregam o MVP Week! Um evento online, que proporciona um ambiente de aprendizado intenso.
 
-## Agenda
+## Semana 1 | 20/04 - 23/04
 
-### Semana 1 | 20/04 - 23/04
+### Agenda
 
 |         	| Segunda         	| Terça              	| Quarta            	| Quinta
 |---------	|-----------------	|--------------------	|-------------------	|---------------	
 | 19:30   	| Walter Coan     	| Sara Barbosa       	| Angelo Belchior   	| Mario Trentim 	   	
 | 20:30   	| Gustavo Bigardi 	| Emmanuel Brandão   	| Rafael Mendonça   	| Bruno Brito   	   	
 
+### Temas
 
 | Palestrante | Tema 
 |- |- 
@@ -27,13 +28,16 @@ E esses experts organizam e entregam o MVP Week! Um evento online, que proporcio
 | Mario Trentim | 	Teamwork Architecture - Boas Práticas para Adoção do Microsoft Teams
 | Bruno Brito | 	IdentityServer4 - Um ambiente seguro para suas api's com OAuth 2.0
 
-### Semana 2 | 27/04 - 30/04
+## Semana 2 | 27/04 - 30/04
+
+### Agenda
 
 |         	| Segunda         	| Terça              	| Quarta            	| Quinta        	   	
 |---------	|-----------------	|--------------------	|-------------------	|---------------	
 | 19:30   	| Luis Beltran    	| Alessandro Trovato 	| Alexandro Prado   	| Daniel Donda  	   	
 | 20:30   	| Rodrigo Crespi  	| Jefferson Castilho 	| Carlos dos Santos 	| Idevar Junior 	   	
 
+### Temas
 
 | Palestrante | Tema 
 |- |- 
@@ -46,14 +50,16 @@ E esses experts organizam e entregam o MVP Week! Um evento online, que proporcio
 | Idevar Junior| 	Dynamics 365 Marketing: a tratativa do cliente como Indústria 4.0
 | Daniel Donda | 
 
+## Semana 3 | 04/05 - 07/05
 
-### Semana 3 | 04/05 - 07/05
+### Agenda
 
 |         	| Segunda         	| Terça              	| Quarta            	| Quinta        	   	
 |---------	|-----------------	|--------------------	|-------------------	|---------------	
 | 19:30   	| Albert Tanure   	| Thiago Lunardi     	| Lucas Romão       	|               	   	
 | 20:30   	| Marcelo Adade   	| Arthur Luz         	|                   	|               	   	
 
+### Temas
 
 | Palestrante | Tema 
 |- |- 
