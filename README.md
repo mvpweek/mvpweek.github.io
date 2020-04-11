@@ -10,6 +10,7 @@
 | 19:30   	| Walter Coan     	| Sara Barbosa       	| Angelo Belchior   	| Mario Trentim 	   	
 | 20:30   	| Gustavo Bigardi 	| Emmanuel Brandão   	| Rafael Mendonça   	| Bruno Brito   	   	
 
+
 | Palestrante | Tema 
 |- |- 
 | Gustavo Bigardi | 	Aplicações web modernas utilizando C# com Blazor WASM
@@ -27,6 +28,7 @@
 |---------	|-----------------	|--------------------	|-------------------	|---------------	
 | 19:30   	| Luis Beltran    	| Alessandro Trovato 	| Alexandro Prado   	| Daniel Donda  	   	
 | 20:30   	| Rodrigo Crespi  	| Jefferson Castilho 	| Carlos dos Santos 	| Idevar Junior 	   	
+
 
 | Palestrante | Tema 
 |- |- 
@@ -46,6 +48,7 @@
 |---------	|-----------------	|--------------------	|-------------------	|---------------	
 | 19:30   	| Albert Tanure   	| Thiago Lunardi     	| Lucas Romão       	|               	   	
 | 20:30   	| Marcelo Adade   	| Arthur Luz         	|                   	|               	   	
+
 
 | Palestrante | Tema 
 |- |- 
