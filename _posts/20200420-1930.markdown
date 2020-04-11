@@ -1,0 +1,13 @@
+---
+id: 202004201930
+title: Microsoft Tye
+speaker: Thiago Lunardi
+category: Development Technologies
+photo: https://avatars0.githubusercontent.com/u/5428523?s=460&u=0a2935efaea55237a666de6573bdd535e4249943&v=4
+date: 20/04/2020
+time: 19:30
+img: https://mvp.microsoft.com/en-us/PublicProfile/Photo/5003504
+thumbnail: https://s3.amazonaws.com/inspire-website-assets/wp-content/uploads/2019/03/22131154/microsoft-tie.jpg
+description: Build, Debug, Container e Deploy to Kubernetes
+
+---
