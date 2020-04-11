@@ -1,5 +1,10 @@
 # MVP Week
 
+Criado pelos membros da comunidades técnicas Microsoft MVP do Brasil, o MVP Week foi idealizado durante o momento de pandemia global a fim de fzermos nossa parte e entregarmos por três semanas repletos de conteúdo técnico.
+
+MVPs são pessoas referências que a Microsoft reconhece por serem experts nas tecnologias com as quais atuam e que possuem paixão por compartilhar conhecimento com a comunidade.
+
+E esses experts organizam e entregam o MVP Week! Um evento online, que proporciona um ambiente de aprendizado intenso.
 
 ## Agenda
 
