@@ -35,7 +35,7 @@
 | Alexandro Prado | 	Azure Cycle Cloud
 | Idevar Junior| 	Dynamics 365 Marketing: a tratativa do cliente como Indústria 4.0
 | Thiago Lunardi | 	Microsoft Tye
-| Arthur Luz| 	Azure Databricks | An Unified Platform for Data Engineer and Data Science
+| Arthur Luz| 	Azure Databricks \| An Unified Platform for Data Engineer and Data Science
 | Lucas Romao	| 
 | Marcelo Adade| 	SQL SERVER 2019: muito além do Big Data Clusters
 
