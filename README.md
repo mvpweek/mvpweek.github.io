@@ -56,8 +56,8 @@ E esses experts organizam e entregam o MVP Week! Um evento online, que proporcio
 
 |         	| Segunda         	| Terça              	| Quarta            	| Quinta        	   	
 |---------	|-----------------	|--------------------	|-------------------	|---------------	
-| 19:30   	| Albert Tanure   	| Thiago Lunardi     	| Flávio Farias      	| Lucas Romão              	   	
-| 20:30   	| Marcelo Adade   	| Arthur Luz         	|                   	|               	   	
+| 19:30   	| Albert Tanure   	| Thiago Lunardi     	| Flávio Farias      	|               	   	
+| 20:30   	| Marcelo Adade   	| Arthur Luz         	| Armando Lacerda    	|               	   	
 
 ### Temas
 
@@ -67,5 +67,5 @@ E esses experts organizam e entregam o MVP Week! Um evento online, que proporcio
 | Thiago Lunardi | 	Build, Debug, Dockerize e Deploy K8s com novíssimo Microsoft Tye
 | Arthur Luz| 	Azure Databricks \| An Unified Platform for Data Engineer and Data Science
 | Flávio Farias	| Integrando dados usando Azure Data Factory
-| Lucas Romão	| -
+| Armando Lacerda	| - Bem vindo ao Azure Synapse
 
