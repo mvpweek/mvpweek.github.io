@@ -48,7 +48,7 @@ E esses experts organizam e entregam o MVP Week! Um evento online, que proporcio
 | Alexandro Prado | 	Azure Cycle Cloud
 | Carlos dos Santos | 	Docker no ambiente de desenvolvimento - por que usar?
 | Idevar Junior| 	Dynamics 365 Marketing: a tratativa do cliente como Indústria 4.0
-| Daniel Donda | 
+| Daniel Donda | Coloque seu computador em quarentena
 
 ## Semana 3 | 04/05 - 07/05
 
@@ -56,14 +56,16 @@ E esses experts organizam e entregam o MVP Week! Um evento online, que proporcio
 
 |         	| Segunda         	| Terça              	| Quarta            	| Quinta        	   	
 |---------	|-----------------	|--------------------	|-------------------	|---------------	
-| 19:30   	| Albert Tanure   	| Thiago Lunardi     	| Lucas Romão       	|               	   	
+| 19:30   	| Albert Tanure   	| Thiago Lunardi     	| Flávio Farias      	| Lucas Romão              	   	
 | 20:30   	| Marcelo Adade   	| Arthur Luz         	|                   	|               	   	
 
 ### Temas
 
 | Palestrante | Tema 
-|- |- 
+| Albert Tanure |Não reinvente a roda e reutilize suas bibliotecas continuamente com o Azure Artifacts
+| Marcelo Adade| 	SQL SERVER 2019: muito além do Big Data Clusters
 | Thiago Lunardi | 	Build, Debug, Dockerize e Deploy K8s com novíssimo Microsoft Tye
 | Arthur Luz| 	Azure Databricks \| An Unified Platform for Data Engineer and Data Science
-| Lucas Romao	| 
-| Marcelo Adade| 	SQL SERVER 2019: muito além do Big Data Clusters
+| Flávio Farias	| Integrando dados usando Azure Data Factory
+| Lucas Romão	| -
+
