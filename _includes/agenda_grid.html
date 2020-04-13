@@ -10,13 +10,13 @@
         <div class="row">
             {% for post in site.posts %}
             <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="#portfolioModal{{ post.id }}" class="portfolio-link" data-toggle="modal"></a>
+                <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal"></a>
                 <div class="portfolio-hover">
                     <div class="portfolio-hover-content">
                         <i class="fa fa-plus fa-3x"></i>
                     </div>
                 </div>
-                <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                <img src="{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                 </a>
                 <div class="portfolio-caption">
                     <h4>{{ post.title }}</h4>
