@@ -23,7 +23,7 @@ São esses experts que organizam e entregam o MVP Week! Um evento online, que pr
 | Walter Coan | 	Novidades sobre a plataforma de segurança para IoT - Azure Sphere
 | Sara Barbosa | 	Keep calm and share with Microsoft 365
 | Emmanuel Brandão | 	Práticas para aplicar segurança em DevOps
-| Angelo Belchior | 	Criando um sistema de recomendação de produtos com ML.net
+| Angelo Belchior | 	Azure Cognitive Services
 | Rafael Mendonça | 	Power BI Embedded - Inserindo seus relatórios numa aplicação WEB
 | Mario Trentim | 	Teamwork Architecture - Boas Práticas para Adoção do Microsoft Teams
 | Bruno Brito | 	IdentityServer4 - Um ambiente seguro para suas api's com OAuth 2.0
